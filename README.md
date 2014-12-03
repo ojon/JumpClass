@@ -1,4 +1,7 @@
 JumpClass
 =========
 
-An ipython notebook biomechanical analysis of vertical jump
+An ipython notebook about vertical jump.
+
+Here
+
